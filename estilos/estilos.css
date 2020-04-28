@@ -1,0 +1,13 @@
+body{
+    background: url( ../imagenes/nike-slogan.jpg);
+    background-size: cover;
+    text-align: center;
+}
+h1, h2, h3{
+    color: white;
+    font-family: fantasy;
+    font-size: 60px;
+}
+p{
+    color: white;
+}
